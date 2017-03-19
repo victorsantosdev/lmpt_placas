@@ -1,0 +1,35 @@
+
+
+   ---- Transcoding 'C:\Users\Victor\Documents\eagle\Placa Regulador Low-Dropout\GERBER\vdo_regulator.GBS' ----   Sun Mar 19 01:43:58 2017
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Victor\Documents\eagle\Placa Regulador Low-Dropout\GERBER\vdo_regulator.GTL' ----   Sun Mar 19 01:43:58 2017
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Victor\Documents\eagle\Placa Regulador Low-Dropout\GERBER\vdo_regulator.GTO' ----   Sun Mar 19 01:43:58 2017
+
+D10   --> D106
+D11   --> D107
+D12   --> D108
+D13   --> D109
+D14   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Victor\Documents\eagle\Placa Regulador Low-Dropout\GERBER\vdo_regulator.GTS' ----   Sun Mar 19 01:43:58 2017
+
+D10   --> D111
+D11   --> D112
+D12   --> D113
+D13   --> D114
+-----------------------------------------------------------------
