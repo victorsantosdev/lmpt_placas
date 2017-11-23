@@ -1,0 +1,55 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/LMPT/Placas/Amplificador_Ganho_1000/V1.1/Amplificador_Ganho_1000_Versão4.sch at 21/06/2007 09:35:29 
+
+WARNING: Sheet 1/1: SUPPLY Pin PE overwritten with N$54
+WARNING: Sheet 1/1: SUPPLY Pin GNDA overwritten with AGND
+ERROR: Sheet 1/1: SUPPLY Pin GNDA overwritten with more than one signal (AGND, GNDA)
+WARNING: Sheet 1/1: POWER Pin IC3P GND connected to N$54
+WARNING: Sheet 1/1: POWER Pin IC3P VCC connected to +5VR
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4A A2
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4A A3
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4A A4
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4B A1
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4B A2
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4B A3
+WARNING: Sheet 1/1: POWER Pin IC4P GND connected to N$54
+WARNING: Sheet 1/1: POWER Pin IC4P VCC connected to +5VR
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to +12V
+WARNING: Sheet 1/1: POWER Pin IC1 V- connected to -12V
+WARNING: Sheet 1/1: POWER Pin IC1 DGND connected to N$54
+WARNING: Sheet 1/1: POWER Pin IC5P V+ connected to +12V
+WARNING: Sheet 1/1: POWER Pin IC5P V- connected to -12V
+WARNING: Sheet 1/1: POWER Pin IC6P V+ connected to +5VR
+WARNING: Sheet 1/1: POWER Pin IC6P V- connected to N$54
+WARNING: Sheet 1/1: POWER Pin U$1 VDD+ connected to +5VR
+WARNING: Sheet 1/1: POWER Pin U$1 VDD- connected to -5VR
+WARNING: Sheet 1/1: POWER Pin U$1 RETURN connected to -5VR
+WARNING: Sheet 1/1: POWER Pin U$2 VDD+ connected to +5VR
+WARNING: Sheet 1/1: POWER Pin U$2 VDD- connected to -5VR
+WARNING: Sheet 1/1: POWER Pin U$2 RETURN connected to -5VR
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 8D
+WARNING: Sheet 1/1: POWER Pin IC7P GND connected to N$54
+WARNING: Sheet 1/1: POWER Pin IC7P VCC connected to +5VR
+WARNING: Only 1 Pin on net N$1
+WARNING: Only 1 Pin on net N$34
+WARNING: Only 1 Pin on net N$51
+WARNING: Sheet 1/1: Nets +5VR and N$8 too close at (3.7 -2.9)
+WARNING: Sheet 1/1: Nets +5VR and N$9 too close at (3.7 -2.1)
+WARNING: Sheet 1/1: Nets +5VR and N$30 too close at (3.7 -1.3)
+WARNING: Sheet 1/1: Nets +5VR and N$6 too close at (3.7 -0.5)
+WARNING: Sheet 1/1: Nets +5VR and N$5 too close at (3.7 0.3)
+WARNING: Sheet 1/1: Nets +5VR and N$4 too close at (3.7 1.1)
+WARNING: Sheet 1/1: Nets +5VR and N$3 too close at (3.7 1.9)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 1.9)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 1.1)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 0.3)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 -0.5)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 -1.3)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 -2.1)
+WARNING: Sheet 1/1, Net +5VR: wire overlaps pin at (3.7 -2.9)
+
+Board and schematic are consistent
+
+    8 errors
+   38 warnings

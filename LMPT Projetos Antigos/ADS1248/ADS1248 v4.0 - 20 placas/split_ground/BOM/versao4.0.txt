@@ -1,0 +1,15 @@
+Partlist exported from C:/Users/win10/Documents/eagle/Placas LMPT/ADS1248/ADS1248 v4.0 - 20 placas/split_ground/versao4.0.sch at 28/09/2017 08:15
+
+Qty Value                           Device      Package     Parts                             Description                          
+5   100nF/16V                       C5/3        C5B3        C1, C3, C6, C9, C10               CAPACITOR                            
+1   10K 1/4W                        R-EU_0204/7 0204/7      R1                                RESISTOR, European symbol            
+5   10uF/16V                        CPOL-USE2-5 E2-5        C2, C4, C5, C7, C8                POLARIZED CAPACITOR, American symbol 
+4   220nF/16V                       C5/2.5      C5B2.5      C12, C15, C18, C21                CAPACITOR                            
+7   22nF/16V                        C5/2.5      C5B2.5      C11, C13, C14, C16, C17, C20, C22 CAPACITOR                            
+1   22nF/16V                        C5/3        C5B3        C19                               CAPACITOR                            
+1   74LS125N                        74LS125N    DIL14       IC3                               Quad bus BUFFER, 3-state             
+2   7805                            78XXL       78XXL       IC1, IC2                          VOLTAGE REGULATOR                    
+1   ADS1248G                        ADS1248G    P-TSSOP28-1 IC4                               Phase locked loop                    
+1   HEADER 2x4 5.08mm               PINHD-2X4   2X04        JP1                               PIN HEADER                           
+2   TERMINAL BLOCK 5.08MM VERT 4POS AK500/4-H   AK500/4-H   X1, X2                            CONNECTOR                            
+8   Wire Jumper                     R-EU_0204/7 0204/7      R2, R3, R4, R5, R6, R7, R8, R9    RESISTOR, European symbol            

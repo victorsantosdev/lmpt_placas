@@ -1,0 +1,17 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/LMPT/Placas/Placa_mae/convrs485 V2.sch at 22/02/2008 17:21:50 
+
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 R2IN
+WARNING: Sheet 1/1: POWER Pin IC1P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1P GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC3P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC3P GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC2 GND connected to PE
+WARNING: Sheet 1/1, Net PE: missing Junction at (-2.4 -1.9)
+
+Board and schematic are consistent
+
+    1 error
+    7 warnings

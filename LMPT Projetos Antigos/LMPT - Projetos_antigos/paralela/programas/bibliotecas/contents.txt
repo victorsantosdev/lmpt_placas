@@ -1,0 +1,9 @@
+	This directories contain the source and project files for the necessary libraries
+used in the data acquision systems Sensu and Climus. For its utilization in third part
+applications, follow these steps:
+
+	In the C++ Builder, include the files *.lib (stored in the ./include directory)
+in your project;
+
+	The third part application must be access the files *.dll (stored in the ./lib
+directory). Therefore, include the directory who contain the *.dll in your path.

@@ -1,0 +1,22 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/LMPT/Placas/TUR8535/TUR8535.sch at 02/04/2008 15:03:05 
+
+WARNING: Sheet 1/1: POWER Pin IC3P VEE connected to PE
+WARNING: Sheet 1/1: POWER Pin IC3P GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC3P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC4P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC4P GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC1 AGND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC1 AVCC connected to AREF
+WARNING: Sheet 1/1: POWER Pin IC1 VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC2P GND connected to PE
+WARNING: Sheet 1/1: POWER Pin IC2P VCC connected to +5V
+WARNING: Only 1 Pin on net PD2
+WARNING: Only 1 Pin on net PD3
+
+Board and schematic are consistent
+
+    0 errors
+   13 warnings

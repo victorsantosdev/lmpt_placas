@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/win10/Documents/eagle/Git LMPT Placas/ADS1248/ADS1248 v4.0 - 20 placas/normal_damian/versao4.0.sch at 04/10/2017 23:49
+
+Qty Value                           Device      Package     Parts                                    Description                          
+5   100nF / 16V                     C5/3        C5B3        C6, C7, C8, C16, C19                     CAPACITOR                            
+1   10k 1/4W                        R-EU_0204/7 0204/7      R9                                       RESISTOR, European symbol            
+5   10uF / 16V                      CPOL-USE2-5 E2-5        C1, C2, C3, C4, C5                       POLARIZED CAPACITOR, American symbol 
+4   220nF / 16V                     C5/2.5      C5B2.5      CDIF1, CDIF2, CDIF3, CDIF4               CAPACITOR                            
+7   22nF / 16V                      C5/2.5      C5B2.5      CCM1, CCM2, CCM3, CCM4, CCM5, CCM7, CCM8 CAPACITOR                            
+1   22nF / 16V                      C5/3        C5B3        CCM6                                     CAPACITOR                            
+1   74LS125N                        74LS125N    DIL14       IC2                                      Quad bus BUFFER, 3-state             
+1   ADS1248G                        ADS1248G    P-TSSOP28-1 IC1                                      Phase locked loop                    
+1   HEADER 2x4 5.08mm               PINHD-2X4   2X04        BUS                                      PIN HEADER                           
+1   Header 1x3 5.08mm               J2X2MM      04C         J1                                       Jumper switch 2 x 2.5 mm             
+8   Jumper                          R-EU_0204/7 0204/7      R1, R2, R3, R4, R5, R6, R7, R8           RESISTOR, European symbol            
+2   LM7805                          78XXL       78XXL       IC3, IC4                                 VOLTAGE REGULATOR                    
+2   TERMINAL BLOCK 5.08mm VERT 4POS AK500/4-H   AK500/4-H   X1, X2                                   CONNECTOR                            

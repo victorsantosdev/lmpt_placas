@@ -1,0 +1,46 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/LMPT/Placas/Controle Relés/Controle 4 relés/Controle_4_reles V1.sch at 21/09/2006 10:13:22 
+
+WARNING: Sheet 1/3: POWER Pin IC7P GND connected to PE
+WARNING: Sheet 1/3: POWER Pin IC7P VCC connected to +5VR1
+WARNING: Sheet 1/3: POWER Pin IC1P GND connected to PE
+WARNING: Sheet 1/3: POWER Pin IC1P VCC connected to +5VR1
+WARNING: Sheet 1/3, Net +5VR1: missing Junction at (7 -3.4)
+WARNING: Sheet 1/3, Net N$13: missing Junction at (7.9 -0.5)
+WARNING: Sheet 1/3, Net N$1: missing Junction at (4.7 -3)
+WARNING: Sheet 1/3, Net N$16: missing Junction at (4.7 -2.2)
+WARNING: Sheet 1/3, Net N$34: missing Junction at (4.7 -1.4)
+WARNING: Sheet 1/3, Net N$36: missing Junction at (4.7 -0.6)
+WARNING: Sheet 1/3, Net N$38: missing Junction at (4.7 0.2)
+WARNING: Sheet 1/3, Net N$40: missing Junction at (4.7 1)
+WARNING: Sheet 1/3, Net N$42: missing Junction at (4.7 1.8)
+WARNING: Sheet 1/3, Net N$44: missing Junction at (4.7 2.6)
+WARNING: Sheet 1/3: Nets +5VR1 and N$3 too close at (7 1.8)
+WARNING: Sheet 1/3: Nets +5VR1 and N$4 too close at (7 1)
+WARNING: Sheet 1/3: Nets +5VR1 and N$13 too close at (7 0.2)
+WARNING: Sheet 1/3: Nets +5VR1 and N$6 too close at (7 -0.6)
+WARNING: Sheet 1/3: Nets +5VR1 and N$30 too close at (7 -1.4)
+WARNING: Sheet 1/3: Nets +5VR1 and N$9 too close at (7 -2.2)
+WARNING: Sheet 1/3: Nets +5VR1 and N$8 too close at (7 -3)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 1.8)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 1)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 0.2)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -0.6)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -1.4)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -2.2)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -3)
+
+Pins/Pads with different connections:
+
+  Part     Gate     Pin        Net      Pad      Signal
+
+  D3       G$1      C          +5VR1    C       
+  IC1      P        VCC        +5VR1    14       S$2
+  IC7      P        VCC        +5VR1    20       S$2
+  IC8      A1       VO         +5VR1    3        S$2
+
+ERROR: Board and schematic are not consistent!
+
+    1 error
+   28 warnings

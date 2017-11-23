@@ -1,0 +1,29 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/LMPT/Placas/Controle Relés/Controle 8 relés/Controle_4_reles V3.sch at 25/09/2006 14:26:55 
+
+WARNING: Sheet 1/3: POWER Pin IC7P GND connected to PE
+WARNING: Sheet 1/3: POWER Pin IC7P VCC connected to +5VR1
+WARNING: Sheet 1/3: POWER Pin IC1P GND connected to PE
+WARNING: Sheet 1/3: POWER Pin IC1P VCC connected to +5VR1
+WARNING: Sheet 1/3, Net N$13: missing Junction at (7.9 -0.5)
+WARNING: Sheet 1/3, Net N$11: missing Junction at (4.9 -0.1)
+WARNING: Sheet 1/3: Nets +5VR1 and N$3 too close at (7 1.8)
+WARNING: Sheet 1/3: Nets +5VR1 and N$4 too close at (7 1)
+WARNING: Sheet 1/3: Nets +5VR1 and N$13 too close at (7 0.2)
+WARNING: Sheet 1/3: Nets +5VR1 and N$6 too close at (7 -0.6)
+WARNING: Sheet 1/3: Nets +5VR1 and N$30 too close at (7 -1.4)
+WARNING: Sheet 1/3: Nets +5VR1 and N$9 too close at (7 -2.2)
+WARNING: Sheet 1/3: Nets +5VR1 and N$8 too close at (7 -3)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 1.8)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 1)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 0.2)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -0.6)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -1.4)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -2.2)
+WARNING: Sheet 1/3, Net +5VR1: wire overlaps pin at (7 -3)
+
+No board loaded - consistency has not been checked
+
+    0 errors
+   20 warnings

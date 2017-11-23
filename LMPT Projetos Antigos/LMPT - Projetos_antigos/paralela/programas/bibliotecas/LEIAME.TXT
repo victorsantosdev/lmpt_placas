@@ -1,0 +1,7 @@
+Incluir o arquivo DLPortIO.LIB no projeto.
+Colocar o arquivo DLPortIO.DLL em C:\windows\system, caso não estiver.
+
+
+To create a library named MYLIB.LIB with modules X.OBJ, Y.OBJ, and Z.OBJ, type:
+
+tlib mylib +x +y +z.

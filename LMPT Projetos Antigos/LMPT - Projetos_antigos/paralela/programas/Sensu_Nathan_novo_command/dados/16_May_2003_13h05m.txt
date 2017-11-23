@@ -1,0 +1,5 @@
+Horário;Temperatura_do_ar_[C];Velocidade_do_ar_[m/s];Temperatura_de_globo_[C];Umidade_do_ar_[%];Amplificador_1_[V];Amplificador_2_[V];Amplificador_3_[V];Amplificador_4_[V];Temperatura_de_referência_[C];Sinal_1_[V];Sinal_2_[V]
+2003/May/16,13h06m;1053101179;0;0;0;0;0;0;0;0;15.9592;0;0;
+2003/May/16,13h07m;1053101239;0;0;0;0;0;0;0;0;16;0;0;
+2003/May/16,13h08m;1053101299;0;0;0;0;0;0;0;0;16;0;0;
+2003/May/16,13h09m;1053101359;0;0;0;0;0;0;0;0;16;0;0;

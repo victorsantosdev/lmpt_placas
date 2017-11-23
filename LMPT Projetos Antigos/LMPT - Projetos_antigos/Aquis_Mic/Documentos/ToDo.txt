@@ -1,0 +1,17 @@
+18/05/2003: - Início do projeto
+		- Modificar os esquemas já existentes do AT90S8515, de forma que a placa final contenha:
+			- O microcontrolador;
+			- Um circuito gerador de clock (igual ao mostrado no esquema do kit STK200);
+			- Interface ISP (similar à utilizada no kit STK300);
+			- Expansão de memória para 32 kbytes;
+			- Interface para LCD (mapeamento por endereço);
+			- Interface para teclado (mapeamento por endereço, reconhecimento de digitação por interrupção).
+			  Verificar o princípio de operação de teclados AT. Se possível, implementar a interface AT, com
+			  suporte somente para teclado US, sem acentos, para simplificação.
+			- Circuito de  brown-out;
+			- Interface RS-232;
+			- Conectores para interface com as portas restantes (sem as portas A e C, ao menos);
+			- Verificação da possibilidade de utilização de uma fonte chaveada alimentada com tensões na faixa
+			  de 10V ~ 24V (baterias), para posterior implementação de suporte a falhas na rede elétrica.
+			- Implementação de rotinas para a criação de um terminal TTY
+
